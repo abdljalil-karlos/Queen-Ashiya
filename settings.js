@@ -43,11 +43,11 @@ global.owner = ['Didula Rashmika']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '212661809642'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = 'ابو لقمان لمࢪاڪشي'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '💗LO9MANE BOT🧚'
 
 global.footer = '©💗Queen Ashiya🧚.'
 
@@ -59,9 +59,9 @@ global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = '💗لقمان لمࢪاڪشي هه🧚'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = '💗مࢪاڪشي صبڪ🧚'
 
 global.sessionName = 'session'
 
